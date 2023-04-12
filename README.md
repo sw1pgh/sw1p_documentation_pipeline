@@ -2,4 +2,4 @@
 &copy; Swapnaneel Ghosh
 
 > This Repository contains the documentation file of how to apply the entire pipeline 
-> *Git-Jenkins_Dockerhub-Kubernetes*
+> **Git-Jenkins-Dockerhub-Kubernetes**
